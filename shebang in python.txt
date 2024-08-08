@@ -1,0 +1,4 @@
+The shebang is added in the first line of the python program. The interpreter used for a file is saved in the shebang.
+So inorder to run the python code without python command, we first make this code file executable.
+For this, we open the terminal and enter 'chmod +x hello.py'. And 
+now we can directly run the script by entering './hello.py'.
